@@ -11,7 +11,7 @@ Steam Reboot:
 Моментальный перезапуск: Steam Reboot предоставляет функцию мгновенного перезапуска Steam после завершения процесса с использованием Steam Killer. Больше не нужно терять времени на ручной перезапуск - наше приложение сделает это за вас.
 
 Инструкции по использованию:
-Скачайте и установите Steam Killer и Steam Reboot с официального сайта https://github.com/NobodyWithFindMe/Steam-Killer_Steam-Reboot
+Скачайте и установите Steam Killer и Steam Reboot с официального сайта https://github.com/NobodyWithFindMe/Steam-Killer_Steam-Reboot .
 Запустите Steam Killer, чтобы автоматически завершить процесс Steam при возникновении проблем.
 Воспользуйтесь Steam Reboot для быстрого перезапуска Steam и продолжения игры без лишних задержек.
 
